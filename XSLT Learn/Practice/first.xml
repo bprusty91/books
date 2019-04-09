@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="first.xsl"?>
+
+<wine grape="Cabernet Sauvignon">
+    <winery>Los Vascos</winery>
+    <year>1998</year>
+    <prices>
+        <list>13.99</list>
+        <discounted>11.99</discounted>
+        <case>143.50</case>
+    </prices>
+</wine> 
