@@ -1,0 +1,16 @@
+
+
+
+Basic Git command List-
+https://www.youtube.com/redirect?redir_token=RgvtxwN4BwzazDKZXZS3stT_EQh8MTU1NDg3NzgyM0AxNTU0NzkxNDIz&q=http%3A%2F%2Fwww.codebind.com%2Flinux-tutorials%2Fbasic-git-commands-list%2F&v=J_Clau1bYco&event=video_description
+
+Set Up Git:
+git config --global user.name "Your Name"
+git config --global user.email "youremail@domain.com"
+
+other commands
+git clone (url)
+git add (file names)
+git commit -m "(committed message)
+git push -u origin master
+git remote add origin master (url)
