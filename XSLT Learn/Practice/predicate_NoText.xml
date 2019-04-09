@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<winelist>
+    <wine grape="Chardonnay">
+        <winery>Benziger</winery>
+        <product>Carneros</product>
+        <year>1997</year>
+        <prices>
+            <list>10.99</list>
+            <discounted>9.50</discounted>
+        </prices>
+    </wine>
+    <wine grape="Cabernet">
+        <winery>Duckpond</winery>
+        <product>Merit Selection</product>
+        <year>1996</year>
+        <prices>
+            <list>13.99</list>
+            <discounted/>
+        </prices>
+    </wine>
+    <wine grape="Chardonnay">
+        <winery>Lindeman's</winery>
+        <product>Bin 65</product>
+        <year>1998</year>
+        <prices>
+            <list>6.99</list>
+            <discounted>5.99</discounted>
+        </prices>
+    </wine>
+</winelist>
