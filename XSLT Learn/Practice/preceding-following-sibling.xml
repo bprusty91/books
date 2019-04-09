@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<story>
+    <chapter>
+        <title>Chapter 1</title>
+        <para>A Dungeon horrible, on all sides round</para>
+    </chapter>
+    <chapter>
+        <title>Chapter 2</title>
+        <para>More unexpert, I boast not: them let those</para>
+        <para>Contrive who need, or when they need, not now.</para>
+        <sect>
+            <title>Chapter 2, Section 1</title>
+            <para>For while they sit contriving, shall the rest,</para>
+            <para>Millions that stand in Arms, and longing wait</para>
+        </sect>
+    </chapter>
+    <chapter>
+        <title>Chapter 3</title>
+        <para>So thick a drop serene hath quenched their Orbs</para>
+    </chapter>
+</story>
